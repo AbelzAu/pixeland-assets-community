@@ -1,5 +1,7 @@
 # pixeland-assets-community
-# assets by the community for the community
+
+assets by the community for the community
+
 Hi all welcome to the project. going to keep this for supporter's only at the moment
 
 
