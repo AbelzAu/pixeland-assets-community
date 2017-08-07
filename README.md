@@ -1,3 +1,5 @@
+# On hold until .obj and git issues sorted
+
 # pixeland-assets-community
 
 assets by the community for the community
